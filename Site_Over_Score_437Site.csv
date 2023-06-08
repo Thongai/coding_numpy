@@ -1,4 +1,4 @@
-Prov,Code_Site,Site_name,District,OverallScore,Sub,Revenue,Revenue_Loss,Day_Down_hour,Night_Down_hour,AC_Power_Downtime_hour,Distance_KM,Access_Time_Minute,Backup_time_Minute,Lat,Long
+Prov,Code_Site,Site_name,District,OverallScore,Sub,Revenue,Revenue_Loss,Day_Down_hour,Night_Down_hour,AC_Power_Downtime_hour,Distance_KM,Access_Time_Minute,Backup_time_Minute,Latitude,Longitude
 ATP,ATP0040,ATP0040_MAIHINLAD,Sanamxai,5,4351,332460788.2,4263777.86,48.1,13.4,60.6,36,135,20,14.70412,106.497624
 ATP,ATP0052,ATP0052_CHALERNXAY,Sanxai,5,647,112099747,4638370.405,122.6,208.5,273.6,87,120,25,15.16606,107.078664
 ATP,ATP0055,ATP0055_KM100,Sanamxai,5,1525,217313822.7,10104052.21,190.6,146.6,77,100,120,40,14.7399,107.482
